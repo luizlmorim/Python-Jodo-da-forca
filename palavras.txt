@@ -1,0 +1,9 @@
+Lápis
+Livro
+Quadro
+Alunos
+Prova
+Estudo
+Sala
+Giz
+professor
