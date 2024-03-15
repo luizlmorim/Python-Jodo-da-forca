@@ -1,2 +1,4 @@
-# Desafios 
-Aqui irei mostrar alguns desafiosos qaue são propostos em sala de aula
+# Jogo da forca em pyhthon
+
+Um jogo da forca construido e python para exercitar a lógica de programação 
+
